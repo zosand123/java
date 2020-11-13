@@ -3,7 +3,6 @@ package ch08_Exceptions;
 public class Account {
 	//잔고
 	private long balance;
-	
 	//생성자
 	public Account(){}
 	
