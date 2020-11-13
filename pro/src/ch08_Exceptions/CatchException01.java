@@ -13,7 +13,6 @@ public class CatchException01 {
 			String data1 = args[1];
 			System.out.println("args[0]="+data0);
 			System.out.println("args[1]="+data1);
-			System.out.println("dddd");	
 			String data11 = "100";
 			String data22 = "a100";
 			int value11 = Integer.parseInt(data11);
