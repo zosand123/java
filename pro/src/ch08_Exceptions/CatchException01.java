@@ -6,14 +6,14 @@ package ch08_Exceptions;
  */
 
 public class CatchException01 {
-
+ 
 	public static void main(String[] args) {
 		try {
 			String data0 = args[0];//에러발생
 			String data1 = args[1];
 			System.out.println("args[0]="+data0);
 			System.out.println("args[1]="+data1);
-				
+			System.out.println("dddd");	
 			String data11 = "100";
 			String data22 = "a100";
 			int value11 = Integer.parseInt(data11);
